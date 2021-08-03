@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.springframework.data.repository.CrudRepository;
 
 public interface UserRepository extends CrudRepository<User, Long> {
