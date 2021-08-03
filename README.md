@@ -3,7 +3,7 @@
 ## Overview
 Samibaba is a web-based Java application that was built in 5 days. It allows users to sign up, log in, browse/search for products, add products to cart, and checkout. Admins for the application can create/update categories, products, and fulfill checked out orders.
 
-<img src="https://user-images.githubusercontent.com/59655536/128067874-81f7491a-322a-4c60-8099-7c6f6ebb2848.png">
+![Untitled](https://user-images.githubusercontent.com/59655536/128070916-2496a85d-0eed-48bd-bafd-f999d1b654a0.gif)
 
 ## Installation
 After cloning to your computer, open Samibaba in the IDE of your choice running JDK. Run maven build, ensuring dependencies are resolved, and run.
