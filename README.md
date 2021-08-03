@@ -1,27 +1,24 @@
-"#Final Project:Samazon Online Shopping"  
+[<img src="https://user-images.githubusercontent.com/59655536/128064451-4c20f24f-9694-48f5-8328-1b21729e7919.png">](https://github.com/leplerjacob/Samibaba)
 
-"SamiBaba Final Project Jacob, David and Sue"
+## Overview
+Samibaba is a web-based Java application that was built in 5 days. It allows users to sign up, log in, browse/search for products, add products to cart, and checkout. Admins for the application can create/update categories, products, and fulfill checked out orders.
 
-"Navbar with login, cart and search box"
+## Installation
+After cloning to your computer, open Samibaba in the IDE of your choice running JDK. Run maven build, ensuring dependencies are resolved, and run.
 
-"Homepage with category of products Books, Clothing, Home Appliences and Electronic Devices"
+## Contributing
+Pull requests are welcome. If you would like to make any major changes, please open an issue!
 
-"Footer with contact info, login/register links and copyright"
+## Linkedin
+If you like this project and would like to get in touch, connect with me on LinkedIn [here](https://www.linkedin.com/in/jacoblepler/)
 
-"Category when clicked loads a product list with items within that category"
+## License
+MIT License
 
-"User when logged in can modify the quantity and add the products to their shopping cart"
+Copyright (c) 2019 Jacob L., Sue H., David M.
 
-"Shopping Cart shows product info and allows the user to checkout."
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-"Only Admin when logged in can add Categories and Products"
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-"User can chose to checkout once products are added to the cart"
-
-"User Details page that shows the user information and their order history"
-
-"Sites charges shipping on every order but offer free shipping for orders > $50.00."
-
-"Navbar allows for search of items in the store and search by words entered"
- 
-"Heroku Link: https://shielded-dusk-77950.herokuapp.com/" 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
